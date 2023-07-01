@@ -1,4 +1,4 @@
-# F3_ShoppingCartProject_06_05_2023
+# F3_ShoppingCartProject_01_07_2023
 This is the HTML5, CSS3, And Vanilla Javascript project
 
 We’ll be creating a simple shopping cart application using html,css and Advanced JS concepts. The topics we’ll cover include promises, async await , using storage APIs and basic API calls while also dealing with complex DOM Manipulations. 
@@ -14,5 +14,5 @@ Here’s a list of features that this project includes and you’ll be graded on
  7. Basic html+css animations and styling will be tested too - 10 Marks
 
 
-Google Doc link: https://docs.google.com/document/d/1KxmrO2DbM7pGqlBpn2cvpcoh-XoGtLoy3vihVyImZRE/edit
+Google Doc link: [https://docs.google.com/document/d/1KxmrO2DbM7pGqlBpn2cvpcoh-XoGtLoy3vihVyImZRE/edit](https://docs.google.com/document/d/1YimyR5nI477nIPg-gyo9CDna39dWctBe/edit)
 Figma link: https://www.figma.com/file/0LzO7mD7G9JDYXbaOK8wuI/Shopping-Cart-Contest?node-id=0%3A1&t=YOclG9pB48jKYKMl-1
